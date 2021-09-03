@@ -1,0 +1,26 @@
+{
+  "account_not_exit":
+    {"username": "心悦有限公司01",
+      "password": "123456",
+      "code": "8888",
+      "login_info": "用户不存在"
+},
+  "password_error":
+    {"username": "心悦有限公司",
+      "password": "666600",
+      "code": "8888",
+      "login_info": "密码错误"
+  },
+  "bitian_not_null":
+    {"username": "心悦有限公司",
+      "password": "123456",
+      "code": "",
+      "login_info": "登录成功"
+  },
+  "login_success":
+    {"username": "心悦有限公司",
+      "password": "123456",
+      "code": "8888",
+      "login_info": "登录成功"
+    }
+}

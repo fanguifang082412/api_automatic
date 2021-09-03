@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="classic_case.base.DriverUntil" />
+          <option value="Hy_Automatic.login_page.PageBase" />
+          <option value="hy_login.login_demo.time_logging" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

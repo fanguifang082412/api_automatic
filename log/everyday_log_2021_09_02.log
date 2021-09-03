@@ -1,0 +1,40 @@
+2021-09-02 14:20:30,797|root        : INFO     开始执行登录测试
+2021-09-02 14:20:30,811|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:20:30,938|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:20:30,940|root        : INFO     开始执行登录测试
+2021-09-02 14:20:30,943|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:20:31,070|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:20:31,072|root        : INFO     开始执行登录测试
+2021-09-02 14:20:31,078|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:20:31,263|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:20:31,265|root        : INFO     开始执行登录测试
+2021-09-02 14:20:31,268|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:20:31,410|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:20:31,412|root        : INFO     开始执行登录多参测试
+2021-09-02 14:20:31,430|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:20:31,551|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:20:31,557|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:20:31,671|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:20:31,673|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:20:31,779|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:22:19,153|root        : INFO     开始执行登录测试
+2021-09-02 14:22:19,155|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:22:19,284|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:22:19,286|root        : INFO     开始执行登录测试
+2021-09-02 14:22:19,292|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:22:19,410|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:22:19,410|root        : INFO     开始执行登录测试
+2021-09-02 14:22:19,412|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:22:19,548|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:22:19,549|root        : INFO     开始执行登录测试
+2021-09-02 14:22:19,551|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:22:19,690|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:22:19,692|root        : INFO     开始执行登录多参测试
+2021-09-02 14:22:19,698|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:22:19,811|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:22:19,813|root        : INFO     开始执行登录少参测试
+2021-09-02 14:22:19,818|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:22:19,937|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-02 14:22:19,937|root        : INFO     开始执行登录参数为空测试
+2021-09-02 14:22:19,950|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-02 14:22:20,073|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
