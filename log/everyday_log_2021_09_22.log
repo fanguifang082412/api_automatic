@@ -1,0 +1,21 @@
+2021-09-22 09:35:17,084|root        : INFO     开始执行登录测试
+2021-09-22 09:35:17,109|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-22 09:35:17,491|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-22 09:35:17,492|root        : INFO     开始执行登录测试
+2021-09-22 09:35:17,493|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-22 09:35:17,608|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-22 09:35:17,609|root        : INFO     开始执行登录测试
+2021-09-22 09:35:17,611|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-22 09:35:17,756|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-22 09:35:17,756|root        : INFO     开始执行登录测试
+2021-09-22 09:35:17,758|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-22 09:35:17,898|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-22 09:35:17,898|root        : INFO     开始执行登录多参测试
+2021-09-22 09:35:17,900|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-22 09:35:18,019|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-22 09:35:18,019|root        : INFO     开始执行登录少参测试
+2021-09-22 09:35:18,021|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-22 09:35:18,136|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
+2021-09-22 09:35:18,137|root        : INFO     开始执行登录参数为空测试
+2021-09-22 09:35:18,140|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): test.gzhyyun.com:80
+2021-09-22 09:35:18,259|urllib3.connectionpool: DEBUG    http://test.gzhyyun.com:80 "POST /index/index/login.html HTTP/1.1" 200 None
