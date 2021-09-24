@@ -11,3 +11,5 @@ report_file = open(report_path+"hy_api_report_"+time.strftime("%Y-%m-%d", time.l
 runner = HTMLTestRunner.HTMLTestRunner(stream=report_file, title="华翼接口测试", description="华翼登录接口测试", verbosity=3)
 
 runner.run(suite)
+
+#第三次提交 2021/9/24
