@@ -1,0 +1,21 @@
+2021-09-26 14:51:59,220|root        : INFO     开始执行登录测试
+2021-09-26 14:51:59,223|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): 127.0.0.1:8888
+2021-09-26 14:51:59,633|urllib3.connectionpool: DEBUG    http://127.0.0.1:8888 "POST http://test.gzhyyun.com/index/index/login.html HTTP/1.1" 200 None
+2021-09-26 14:51:59,634|root        : INFO     开始执行登录测试
+2021-09-26 14:51:59,635|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): 127.0.0.1:8888
+2021-09-26 14:51:59,725|urllib3.connectionpool: DEBUG    http://127.0.0.1:8888 "POST http://test.gzhyyun.com/index/index/login.html HTTP/1.1" 200 None
+2021-09-26 14:51:59,726|root        : INFO     开始执行登录测试
+2021-09-26 14:51:59,728|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): 127.0.0.1:8888
+2021-09-26 14:51:59,841|urllib3.connectionpool: DEBUG    http://127.0.0.1:8888 "POST http://test.gzhyyun.com/index/index/login.html HTTP/1.1" 200 None
+2021-09-26 14:51:59,842|root        : INFO     开始执行登录测试
+2021-09-26 14:51:59,843|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): 127.0.0.1:8888
+2021-09-26 14:51:59,953|urllib3.connectionpool: DEBUG    http://127.0.0.1:8888 "POST http://test.gzhyyun.com/index/index/login.html HTTP/1.1" 200 None
+2021-09-26 14:51:59,954|root        : INFO     开始执行登录多参测试
+2021-09-26 14:51:59,957|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): 127.0.0.1:8888
+2021-09-26 14:52:00,046|urllib3.connectionpool: DEBUG    http://127.0.0.1:8888 "POST http://test.gzhyyun.com/index/index/login.html HTTP/1.1" 200 None
+2021-09-26 14:52:00,047|root        : INFO     开始执行登录少参测试
+2021-09-26 14:52:00,048|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): 127.0.0.1:8888
+2021-09-26 14:52:00,138|urllib3.connectionpool: DEBUG    http://127.0.0.1:8888 "POST http://test.gzhyyun.com/index/index/login.html HTTP/1.1" 200 None
+2021-09-26 14:52:00,138|root        : INFO     开始执行登录参数为空测试
+2021-09-26 14:52:00,140|urllib3.connectionpool: DEBUG    Starting new HTTP connection (1): 127.0.0.1:8888
+2021-09-26 14:52:00,240|urllib3.connectionpool: DEBUG    http://127.0.0.1:8888 "POST http://test.gzhyyun.com/index/index/login.html HTTP/1.1" 200 None

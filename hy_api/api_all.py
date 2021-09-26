@@ -1,3 +1,6 @@
+import sys
+sys.path.append(r"C:/Users/Administrator/PycharmProjects/api_automatic")
+
 import requests
 
 

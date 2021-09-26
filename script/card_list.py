@@ -1,3 +1,7 @@
+import sys
+sys.path.append(r"C:/Users/Administrator/PycharmProjects/api_automatic")
+
+
 import unittest
 import requests
 from hy_api.api_all import HyApi
