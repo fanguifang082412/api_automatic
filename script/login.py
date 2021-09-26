@@ -1,5 +1,7 @@
 import sys
 sys.path.append(r"C:/Users/Administrator/PycharmProjects/api_automatic")
+sys.path.append(r"C:\Users\Administrator\PycharmProjects\api_automatic\venv\Lib\site-packages")
+
 import json
 import os
 import unittest
